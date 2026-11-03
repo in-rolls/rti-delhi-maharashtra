@@ -1,5 +1,8 @@
 # RTI Delhi + Maharashtra
 
+> Fieldwork is consolidated in [in-rolls/rti](https://github.com/in-rolls/rti). Use the [shared viewer](https://in-rolls.github.io/rti/) for all states. This repository preserves the original study records and is no longer maintained. Analysis and the paper are in [in-rolls/rti-analysis](https://github.com/in-rolls/rti-analysis).
+
+
 Reproducible sampling, RA assignments, and a tracking dashboard for filing
 RTI applications to Delhi and Maharashtra public authorities — one
 combined batch, sampled at 10% within each state. Sibling of
